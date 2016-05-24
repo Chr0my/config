@@ -1,3 +1,4 @@
 syntax on
 set tabstop=4
 colorscheme desert
+set number
