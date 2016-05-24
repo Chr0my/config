@@ -1,4 +1,10 @@
 syntax on
 set tabstop=4
+set softtabstop=4
+set expandtab
+set cursorline
+set wildmenu
+set showmatch 
+filetype indent on
 colorscheme desert
 set number
